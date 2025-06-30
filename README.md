@@ -70,6 +70,6 @@ projet_spark/
 
 ---
 
-## 🧑‍💻 Auteurs
+## Auteurs
 
-- Étudiant :Fatimetou Mohamed Abderrahmane Bagga
+- Étudiante :Fatimetou Mohamed Abderrahmane Bagga
